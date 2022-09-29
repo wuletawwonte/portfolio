@@ -1,21 +1,15 @@
 import React from 'react'
+import { Link } from 'gatsby'
+import './header.scss'
 
 export default function Header() {
   return (
     <header>
       <h1>wuletaw</h1>
       <nav>
-        <ul>
-          <li>
-            <a href="#">Home</a>
-          </li>
-          <li>
-            <a href="#">About</a>
-          </li>
-          <li>
-            <a href="#">Contact</a>
-          </li>
-        </ul>
+        <Link to="/">Home</Link>
+        <Link to="/about">About</Link>
+        <Link to="/contact">Contact</Link>
       </nav>
     </header>
   )
