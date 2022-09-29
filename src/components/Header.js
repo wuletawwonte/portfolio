@@ -5,7 +5,9 @@ import './header.scss'
 export default function Header() {
   return (
     <header>
-      <h1>wuletaw</h1>
+      <Link to="/">
+        <h1>wuletaw</h1>
+      </Link>
       <nav>
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
