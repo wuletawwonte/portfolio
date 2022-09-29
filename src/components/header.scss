@@ -1,4 +1,5 @@
 @import "../utilities/variables.scss";
+@import "../utilities/mixins.scss";
 
 header {
   display: flex;
@@ -15,5 +16,19 @@ header {
   .toggle-menu {
     font-size: 2.2rem;
     color: white;
+  }
+
+  nav {
+    display: none;
+  }
+
+  @include breakpoint(lg) {
+    nav {
+      display: block;
+    }
+
+    .toggle-menu {
+      display: none;
+    }
   }
 }
