@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { FaBars } from 'react-icons/fa'
 import './header.scss'
 
 export default function Header() {
@@ -13,6 +14,7 @@ export default function Header() {
         <Link to="/about">About</Link>
         <Link to="/contact">Contact</Link>
       </nav>
+      <FaBars className='toggle-menu' />
     </header>
   )
 }

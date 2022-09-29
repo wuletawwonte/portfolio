@@ -5,6 +5,15 @@ header {
   justify-content: space-between;
   align-items: center;
   height: 8rem;
-  padding: 0 5%;
+  padding: 0 7%;
   background-color: $primary;
+
+  a {
+    text-decoration: none;
+  }
+
+  .toggle-menu {
+    font-size: 2rem;
+    color: white;
+  }
 }
