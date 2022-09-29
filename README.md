@@ -1,16 +1,28 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's hello-world starter
-</h1>
+# Wuletaw Portfolio
 
-Kick off your project with this hello-world boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+<img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+> This is a website project built by Gatsby, which is a static site generator built on reactjs. The website is a portfolio website for wuletaw a full stack developer based in Ethiopia. 
+
+It is created with [Create-React-App](https://github.com/facebook/create-react-app)
+
+---
+
+## Screenshot
+
+## Live version
+
+For the live version of this project visit the following [Netlify](#) link.
+
+## Technology
+
+- React-Create-App
+- React-DOM
+- Redux
+- npm
+- Javascript ES6
+- Nodejs
+- HTML && CSS
 
 ## 🚀 Quick start
 
@@ -88,18 +100,30 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
 
 12. **`README.md`**: A text file containing useful reference information about your project.
 
-## 🎓 Learning Gatsby
 
-Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/). Here are some places to start:
+## Authors
 
-- **For most developers, we recommend starting with our [in-depth tutorial for creating a site with Gatsby](https://www.gatsbyjs.com/tutorial/).** It starts with zero assumptions about your level of ability and walks through every step of the process.
+#### :bust_in_silhouette: Wuletaw Wonte 
+  - [wuletawwonte](https://github.com/wuletawwonte)
+  - [LinkedIn](https://www.linkedin.com/in/wuletaw-wonte/).  
+  - [Twitter](https://twitter.com/wuletaww)
 
-- **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
+## Acknowledgments
 
-## 💫 Deploy
+- Original design idea ([ThemeBing](https://dribbble.com/ThemeBing)) [Design](https://dribbble.com/shots/10854907-Amike-Personal-Portfolio-WordPress-Theme)
 
-[Build, Deploy, and Host On The Only Cloud Built For Gatsby](https://www.gatsbyjs.com/products/cloud/)
+## 🤝 Contributing
+All contributions, issues and feature requests are welcome!
 
-Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby framework that combines a modern developer experience with an optimized, global edge network.
+1. Fork it (https://github.com/wuletawwonte/portfolio.git)
+2. Create your working branch (git checkout -b [choose-a-name])
+3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
+4. Push to the branch (git push origin [chosen-name])
+5. Create a new Pull Request
 
-<!-- AUTO-GENERATED-CONTENT:END -->
+## Show your support:
+
+Give a :star: if you liked the app
+
+# License
+This project is [MIT](LICENSE.md) licensed.
