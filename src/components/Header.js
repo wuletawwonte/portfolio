@@ -1,20 +1,14 @@
 import React from 'react'
-import { Link } from 'gatsby'
-import { FaBars } from 'react-icons/fa'
-import './header.scss'
 
 export default function Header() {
   return (
-    <header>
-      <Link to="/">
-        <h1>wuletaw</h1>
-      </Link>
-      <nav>
-        <Link to="/">Home</Link>
-        <Link to="/about">About</Link>
-        <Link to="/contact">Contact</Link>
-      </nav>
-      <FaBars className='toggle-menu' />
+    <header id="header">
+      <div class="inner">
+        <a href="#" class="image avatar"><img src="images/avatar.jpg" alt="" /></a>
+        <h1><strong>I am Strata</strong>, a super simple<br />
+        responsive site template freebie<br />
+        crafted by <a href="http://html5up.net">HTML5 UP</a>.</h1>
+      </div>
     </header>
   )
 }
