@@ -4,8 +4,8 @@ import myPicture from '../assets/images/me.png';
 export default function Header() {
   return (
     <header id="header">
-      <div class="inner">
-        <a href="#" class="image avatar">
+      <div className="inner">
+        <a href="#" className="image avatar">
           <img src={myPicture} alt="" />
         </a>
         <h1><strong>I am Wuletaw</strong>, a Full-stack web developer<br />
