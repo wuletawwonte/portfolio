@@ -31,7 +31,7 @@ export default function RecentWorks() {
                 <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
             </article>
             <article className="col-6 col-12-xsmall work-item">
-                <a href="images/fulls/06.jpg" className="image fit thumb"><img src="images/thumbs/06.jpg" alt="" /></a>
+                <a href="images/fulls/bookstore.jpg" className="image fit thumb"><img src="images/thumbs/bookstore.jpg" alt="" /></a>
                 <h3>Risus ornare lacinia</h3>
                 <p>Lorem ipsum dolor sit amet nisl sed nullam feugiat.</p>
             </article>
