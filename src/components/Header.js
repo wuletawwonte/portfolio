@@ -8,9 +8,9 @@ export default function Header() {
         <a href="#" className="image avatar">
           <img src={myPicture} alt="" />
         </a>
-        <h1><strong>I am Wuletaw</strong>, a Full-stack web developer<br />
-        responsive site template freebie<br />
-        crafted by <a href="http://html5up.net">HTML5 UP</a>.</h1>
+        <h1><strong>I am Wuletaw</strong>, a Full-Stack Engineer <br />
+        with a love for Javascript, React, Ruby, <a href='#'>Ruby On Rails</a>, Node and Codeigniter.<br />
+        </h1>
       </div>
     </header>
   )
